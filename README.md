@@ -1,5 +1,5 @@
 I'm a computer scientist at Dublin City University, ADAPT Research Centre, and University of Aberdeen. 
-I work in the NLG@ADAPT research group in DCU/ADAPT, and the CLAN research group at Aberdeen. 
+I work in the NLG research group in DCU/ADAPT, and the CLAN research group at Aberdeen. 
 My main research interests are natural language generation, evaluation of NLP systems, reproducibility, and ethical AI.
 
 <!---
